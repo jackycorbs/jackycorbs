@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackycorbs
 <!--- - 👀 I’m interested in --->
-- 🌱 I’m currently learning Python, Flask, SQL..
+- 🌱 Experienced in improving workflows with automation. Mostly using Python and the Flask framework to create user friendly web applications for non-technical people. 
 <!--- - 💞️ I’m looking to collaborate on ... // 
 - 📫 How to reach me ... 
 <!---
